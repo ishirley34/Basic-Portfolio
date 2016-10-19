@@ -1,0 +1,84 @@
+a{}
+
+aside{}
+
+body{
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+footer{
+	clear: both;
+}
+
+h1{}
+
+h2{}
+
+h3{}
+
+header{
+	width: 960px;
+	background-color: green;
+}
+
+nav{
+	float: right;
+}
+
+p{}
+
+section{}
+
+.headerspace{
+	width: 960px;
+	margin: 0 auto;
+	border-bottom: solid 1px;
+	overflow: auto;
+
+}
+
+.wrapper{
+	width: 960px;
+	overflow: auto;
+	margin: 0 auto;
+}
+
+#about{
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+#contact{
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+#logo{
+	text-align: center;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#portfolio{
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+#portrait{}
