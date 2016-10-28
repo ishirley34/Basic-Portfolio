@@ -135,6 +135,33 @@ section{
 	margin-top: 10px;
 	padding-left: 35px;
 }
+
+.imageLinks{
+	float: left;
+	height: 160px;
+	width: 240px;
+	margin-left: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	text-align: center;
+}
+
+.imageLinks img{
+	height: 100%;
+	width: 100%;
+}
+
+.imageText{
+	position: absolute;
+	top: 60%;
+	width: 100%;
+	background: #4aaaa5;
+	margin: auto;
+	margin-right: 25px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	color: #ffffff;
+}
 .wrapper{
 	/*height: auto;*/
 	width: 960px;
